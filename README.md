@@ -17,7 +17,6 @@
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/sorttab_mac.html
 
 ## 秀丸ファイラー用スクリプト
-
 ### keyx
 * INIファイルひとつでツールとキー割り当てを管理
 * GitHub: -
@@ -39,10 +38,11 @@
 * GitHub: https://github.com/hiro111suzu/hidehist
 * バージョン: 1
 
-### [秀丸アップデーター][hideup]
+### 秀丸アップデーター
 * 秀丸シリーズのソフトウェアのバージョン管理ツール
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/hideup1_1.html
 * GitHub: https://github.com/hiro111suzu/hideup
 * バージョン: 1.1
+* [「秀丸」製品を更新する手間を省いてくれるスクリプト「秀丸アップデーター」【レビュー】 - 窓の杜](https://forest.watch.impress.co.jp/docs/review/1436031.html)
 
 
