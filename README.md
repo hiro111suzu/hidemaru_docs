@@ -24,7 +24,7 @@
 
 ### コマンドパレット 秀丸ファイラー版
 * 「コマンドパレット」を、秀丸ファイラーに導入するスクリプト
-* 公式ライブラリ 
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/hmfcscript/cmdphf_v1.html
 * GitHub: https://github.com/hiro111suzu/cmdp_hidemaru_filer
 
 ### 検索キット
