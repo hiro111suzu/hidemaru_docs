@@ -16,6 +16,23 @@
 * タブを拡張子ごと、ファイルパス順にソート
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/sorttab_mac.html
 
+### 秀丸エディタで関数電卓
+* カーソルのある行を数式として計算し、計算結果を表示
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/calc.html
+
+### 無題のウインドウをぜんぶ閉じる
+* GREP結果や新規ウインドウなどを、まとめて閉じる
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/close_unnamed.html
+
+### 日付をカレンダーから挿入
+* Winodwsカレンダーコントロールをカーソル位置に出し、日付を入力
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/insert_date.html
+
+### マークダウンツール集
+* マークダウンテキスト編集用、ちょっとしたツール集
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/md_tools.html
+
+
 ## 秀丸ファイラー用スクリプト
 ### keyx
 * INIファイルひとつでツールとキー割り当てを管理
