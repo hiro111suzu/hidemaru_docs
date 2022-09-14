@@ -49,6 +49,20 @@
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/hmfcscript/searchkit.html
 * github: https://github.com/hiro111suzu/searchkit
 
+### 近所のタブを全部閉じる
+* 現在のタブと近いディレクトリパスのタブをまとめて閉じる
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/hmfcscript/close_neighbors.html
+
+### タブのソート v1
+* タブをパス名順に並べ直す
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/hmfcscript/tabsort1.html
+* バージョン: 1
+
+### クリップフォルダー
+* 秀丸ファイラーClassicに仮想フォルダー機能を持たせるスクリプト
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/hmfcscript/clipfol.html
+
+
 ## 連携
 ### 秀丸エディタのヒストリを秀丸ファイラーで表示
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/hidehist_v1.html
