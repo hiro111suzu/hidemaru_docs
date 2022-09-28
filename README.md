@@ -10,7 +10,6 @@
 * 「コマンドパレット」を、秀丸エディタ・秀丸メールに導入するマクロ
 * GitHub: https://github.com/hiro111suzu/cmdp_hidemaru_editor
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/hmfcscript/cmdphf_v1.html
-* バージョン: 1
 
 ### タブのソート
 * タブを拡張子ごと、ファイルパス順にソート
@@ -32,12 +31,11 @@
 * マークダウンテキスト編集用、ちょっとしたツール集
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/md_tools.html
 
-
 ## 秀丸ファイラー用スクリプト
 ### keyx
 * INIファイルひとつでツールとキー割り当てを管理
 * GitHub: https://github.com/hiro111suzu/keyx_hidemaru_filer
-* 公式ライブラリ: 未登録
+* 公式ライブラリ: file:///C:/Users/hirofumi/OneDrive/config/hidegit/keyx_hidemaru_filer/README.url
 
 ### コマンドパレット 秀丸ファイラー版
 * 「コマンドパレット」を、秀丸ファイラーに導入するスクリプト
