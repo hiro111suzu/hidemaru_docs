@@ -35,7 +35,7 @@
 ### keyx
 * INIファイルひとつでツールとキー割り当てを管理
 * GitHub: https://github.com/hiro111suzu/keyx_hidemaru_filer
-* 公式ライブラリ: file:///C:/Users/hirofumi/OneDrive/config/hidegit/keyx_hidemaru_filer/README.url
+* 公式ライブラリ: https://hide.maruo.co.jp/lib/hmfcscript/keyx_hf.html
 
 ### コマンドパレット 秀丸ファイラー版
 * 「コマンドパレット」を、秀丸ファイラーに導入するスクリプト
