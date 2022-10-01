@@ -25,6 +25,7 @@
 
 ### 日付をカレンダーから挿入
 * Winodwsカレンダーコントロールをカーソル位置に出し、日付を入力
+* GitHub: 
 * 公式ライブラリ: https://hide.maruo.co.jp/lib/macro/insert_date.html
 
 ### マークダウンツール集
@@ -73,5 +74,4 @@
 * GitHub: https://github.com/hiro111suzu/hideup
 * バージョン: 1.1
 * [「秀丸」製品を更新する手間を省いてくれるスクリプト「秀丸アップデーター」【レビュー】 - 窓の杜](https://forest.watch.impress.co.jp/docs/review/1436031.html)
-
 
